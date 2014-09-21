@@ -1,0 +1,21 @@
+{
+  "name": "songkick-api",
+  "version": "0.0.1",
+  "description": "A Node.js wrapper around Songkick's API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "songkick",
+    "api",
+    "music"
+  ],
+  "author": "Jose Maria Nunez-Izu",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.0.0",
+    "request": "^2.44.0"
+  }
+}
